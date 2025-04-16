@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\moviesplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\moviesplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\moviesplatform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\moviesplatform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\data\\moviesplatformuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\data\\moviesplatformuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\data\\moviesplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\data\\moviesplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\migrations\\20250404101502_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\migrations\\20250404101502_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Moviesplatform",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj",
+              "RelativeDocumentMoniker": "Moviesplatform\\Moviesplatform.csproj",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj",
+              "RelativeToolTip": "Moviesplatform\\Moviesplatform.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T17:16:17.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Moviesplatform",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj",
+              "RelativeDocumentMoniker": "Moviesplatform\\Moviesplatform.csproj",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj",
+              "RelativeToolTip": "Moviesplatform\\Moviesplatform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T17:15:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Program.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Program.cs",
+              "RelativeToolTip": "Moviesplatform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:41:02.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Moviesplatform\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:13:49.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:50:53.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Moviesplatform\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:13:29.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T17:23:09.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:37:45.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACIAAABA//////8rwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:41:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesplatformUser.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:08:55.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T17:23:31.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAtDIzMzMKwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:53:35.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Moviesplatform\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Moviesplatform\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwAAADAZWZmZmYkwDMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-07T14:59:00.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:26:19.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Models\\Category.cs",
+              "RelativeToolTip": "Moviesplatform\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:05:26.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T23:48:29.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T14:53:39.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MoviesplatformDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:57:31.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\appsettings.json",
+              "RelativeDocumentMoniker": "Moviesplatform\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\appsettings.json",
+              "RelativeToolTip": "Moviesplatform\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T09:58:19.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T20:56:37.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250404101502_Initialmigration.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Migrations\\20250404101502_Initialmigration.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Migrations\\20250404101502_Initialmigration.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Migrations\\20250404101502_Initialmigration.cs",
+              "RelativeToolTip": "Moviesplatform\\Migrations\\20250404101502_Initialmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:15:03.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Models\\Film.cs",
+              "RelativeToolTip": "Moviesplatform\\Models\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:06:23.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Moviesplatform\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Moviesplatform\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-01T14:39:16.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
