@@ -102,12 +102,10 @@ namespace Moviesplatform.Migrations
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderKey")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderDisplayName")
                         .HasColumnType("nvarchar(max)");
@@ -144,12 +142,10 @@ namespace Moviesplatform.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Name")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Value")
                         .HasColumnType("nvarchar(max)");
@@ -222,6 +218,55 @@ namespace Moviesplatform.Migrations
                         .HasFilter("[NormalizedUserName] IS NOT NULL");
 
                     b.ToTable("AspNetUsers", (string)null);
+                });
+
+            modelBuilder.Entity("Moviesplatform.Models.WachListItem", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int?>("FilmId")
+                        .IsRequired()
+                        .HasColumnType("int");
+
+                    b.Property<int?>("SeriesId")
+                        .IsRequired()
+                        .HasColumnType("int");
+
+                    b.Property<int>("WatchlistId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("FilmId");
+
+                    b.HasIndex("SeriesId");
+
+                    b.HasIndex("WatchlistId");
+
+                    b.ToTable("WatchlistItems");
+                });
+
+            modelBuilder.Entity("Moviesplatform.Models.Watchlist", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("WatchLists");
                 });
 
             modelBuilder.Entity("Plateforme_Filmes.Models.Category", b =>
@@ -350,6 +395,44 @@ namespace Moviesplatform.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("Moviesplatform.Models.WachListItem", b =>
+                {
+                    b.HasOne("Plateforme_Filmes.Models.Film", "Film")
+                        .WithMany()
+                        .HasForeignKey("FilmId")
+                        .OnDelete(DeleteBehavior.SetNull)
+                        .IsRequired();
+
+                    b.HasOne("Plateforme_Filmes.Models.Series", "Series")
+                        .WithMany()
+                        .HasForeignKey("SeriesId")
+                        .OnDelete(DeleteBehavior.SetNull)
+                        .IsRequired();
+
+                    b.HasOne("Moviesplatform.Models.Watchlist", "Watchlist")
+                        .WithMany("WatchlistItems")
+                        .HasForeignKey("WatchlistId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Film");
+
+                    b.Navigation("Series");
+
+                    b.Navigation("Watchlist");
+                });
+
+            modelBuilder.Entity("Moviesplatform.Models.Watchlist", b =>
+                {
+                    b.HasOne("Moviesplatform.Areas.Identity.Data.MoviesplatformUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("Plateforme_Filmes.Models.Film", b =>
                 {
                     b.HasOne("Plateforme_Filmes.Models.Category", "Category")
@@ -370,6 +453,11 @@ namespace Moviesplatform.Migrations
                         .IsRequired();
 
                     b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("Moviesplatform.Models.Watchlist", b =>
+                {
+                    b.Navigation("WatchlistItems");
                 });
 
             modelBuilder.Entity("Plateforme_Filmes.Models.Category", b =>

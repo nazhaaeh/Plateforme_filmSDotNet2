@@ -9,77 +9,113 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Moviesplatform
 build_property.RootNamespace = Moviesplatform
-build_property.ProjectDir = C:\Users\dell\source\repos\Moviesplatform\Moviesplatform\
+build_property.ProjectDir = C:\Users\dell\OneDrive\Bureau\DotnetFilms\Plateforme_filmSDotNet2\Moviesplatform\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\dell\source\repos\Moviesplatform\Moviesplatform
+build_property.MSBuildProjectDirectory = C:\Users\dell\OneDrive\Bureau\DotnetFilms\Plateforme_filmSDotNet2\Moviesplatform
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 7.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Views/Admin/Index.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/AdminCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/AdminCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/AdminCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/AdminFilm/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GaWxtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/AdminFilm/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GaWxtXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/AdminFilm/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GaWxtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Views/Home/Index.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Views/Home/Privacy.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Views/Shared/Error.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/Shared/_LayoutUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Views/User/Index.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Views/_ViewImports.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Views/_ViewStart.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dell/source/repos/Moviesplatform/Moviesplatform/Views/Shared/_Layout.cshtml]
+[C:/Users/dell/OneDrive/Bureau/DotnetFilms/Plateforme_filmSDotNet2/Moviesplatform/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-06pur1egyi

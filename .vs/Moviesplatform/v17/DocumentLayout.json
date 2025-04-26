@@ -1,97 +1,193 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\",
+  "WorkspaceRootPath": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\admincategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\admincategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\controllers\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\controllers\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\moviesplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\moviesplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\moviesplatform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\moviesplatform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\data\\moviesplatformuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\data\\moviesplatformuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\admincategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\admincategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\admincategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\admincategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\adminfilm\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\adminfilm\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\controllers\\adminseriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\controllers\\adminseriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\adminfilm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\adminfilm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\adminfilm\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\adminfilm\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\controllers\\adminfilmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\controllers\\adminfilmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\models\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\models\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\areas\\identity\\data\\moviesplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\data\\moviesplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\services\\dummyemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\services\\dummyemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\moviesplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\moviesplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250425010033_AdjustWatchlistItemsCascades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Moviesplatform\\Migrations\\20250425010033_AdjustWatchlistItemsCascades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250425005236_addwachlistlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Moviesplatform\\Migrations\\20250425005236_addwachlistlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250425005652_UpdateWatchlistItemsNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Moviesplatform\\Migrations\\20250425005652_UpdateWatchlistItemsNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\models\\wachlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\models\\wachlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\data\\moviesplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\data\\moviesplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\source\\repos\\moviesplatform\\moviesplatform\\migrations\\20250404101502_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\data\\moviesplatformuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\data\\moviesplatformuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\moviesplatform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\moviesplatform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|c:\\users\\dell\\onedrive\\bureau\\dotnetfilms\\plateforme_filmsdotnet2\\moviesplatform\\migrations\\20250404101502_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FE484AD-B716-45D4-BC0B-F9965858069D}|Moviesplatform\\Moviesplatform.csproj|solutionrelative:moviesplatform\\migrations\\20250404101502_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -102,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,23 +214,271 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Moviesplatform",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj",
-              "RelativeDocumentMoniker": "Moviesplatform\\Moviesplatform.csproj",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj",
-              "RelativeToolTip": "Moviesplatform\\Moviesplatform.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-12T17:16:17.596Z",
+              "DocumentIndex": 2,
+              "Title": "AdminCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Controllers\\AdminCategoriesController.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Controllers\\AdminCategoriesController.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Controllers\\AdminCategoriesController.cs",
+              "RelativeToolTip": "Moviesplatform\\Controllers\\AdminCategoriesController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:12:00.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminFilm\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\AdminFilm\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminFilm\\Edit.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\AdminFilm\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T00:07:06.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminFilm\\Create.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\AdminFilm\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminFilm\\Create.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\AdminFilm\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T00:06:32.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminFilm\\Index.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\AdminFilm\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminFilm\\Index.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\AdminFilm\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T00:05:43.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T17:23:09.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\AdminCategories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminCategories\\Create.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\AdminCategories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T00:18:27.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T23:49:15.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Moviesplatform",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminCategories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\AdminCategories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminCategories\\Edit.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\AdminCategories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T00:18:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminSeriesController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Controllers\\AdminSeriesController.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Controllers\\AdminSeriesController.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Controllers\\AdminSeriesController.cs",
+              "RelativeToolTip": "Moviesplatform\\Controllers\\AdminSeriesController.cs",
+              "ViewState": "AgIAAD0AAACgZWZmZiYrwE4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:11:34.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\AdminCategories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\AdminCategories\\Index.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\AdminCategories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T00:17:31.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminFilmController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Controllers\\AdminFilmController.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Controllers\\AdminFilmController.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Controllers\\AdminFilmController.cs",
+              "RelativeToolTip": "Moviesplatform\\Controllers\\AdminFilmController.cs",
+              "ViewState": "AgIAABsAAAAAIDMzMzPzvwkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:42:32.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Series.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Models\\Series.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Models\\Series.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Models\\Series.cs",
+              "RelativeToolTip": "Moviesplatform\\Models\\Series.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:11:39.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHsAAAAAlJmZmZkdwIoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:53:35.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Program.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Program.cs",
+              "RelativeToolTip": "Moviesplatform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:41:02.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\appsettings.json",
+              "RelativeDocumentMoniker": "Moviesplatform\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\appsettings.json",
+              "RelativeToolTip": "Moviesplatform\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T09:58:19.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T17:23:31.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Models\\Film.cs",
+              "RelativeToolTip": "Moviesplatform\\Models\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:06:23.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WachListItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Models\\WachListItem.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Models\\WachListItem.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Models\\WachListItem.cs",
+              "RelativeToolTip": "Moviesplatform\\Models\\WachListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:35:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DummyEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Services\\DummyEmailSender.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Services\\DummyEmailSender.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Services\\DummyEmailSender.cs",
+              "RelativeToolTip": "Moviesplatform\\Services\\DummyEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T22:26:56.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250425005236_addwachlistlogic.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250425005236_addwachlistlogic.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Migrations\\20250425005236_addwachlistlogic.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250425005236_addwachlistlogic.cs",
+              "RelativeToolTip": "Moviesplatform\\Migrations\\20250425005236_addwachlistlogic.cs",
+              "ViewState": "AgIAADoAAACAgJmZmZkdwGAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:52:37.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Moviesplatform.csproj",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Moviesplatform.csproj",
               "RelativeDocumentMoniker": "Moviesplatform\\Moviesplatform.csproj",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Moviesplatform.csproj",
               "RelativeToolTip": "Moviesplatform\\Moviesplatform.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -143,154 +487,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Program.cs",
-              "RelativeDocumentMoniker": "Moviesplatform\\Program.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Program.cs",
-              "RelativeToolTip": "Moviesplatform\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "20250425005652_UpdateWatchlistItemsNullable.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250425005652_UpdateWatchlistItemsNullable.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Migrations\\20250425005652_UpdateWatchlistItemsNullable.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250425005652_UpdateWatchlistItemsNullable.cs",
+              "RelativeToolTip": "Moviesplatform\\Migrations\\20250425005652_UpdateWatchlistItemsNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T14:41:02.893Z",
+              "WhenOpened": "2025-04-25T00:56:52.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Moviesplatform\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Moviesplatform\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "20250425010033_AdjustWatchlistItemsCascades.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250425010033_AdjustWatchlistItemsCascades.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Migrations\\20250425010033_AdjustWatchlistItemsCascades.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250425010033_AdjustWatchlistItemsCascades.cs",
+              "RelativeToolTip": "Moviesplatform\\Migrations\\20250425010033_AdjustWatchlistItemsCascades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T17:13:49.042Z",
+              "WhenOpened": "2025-04-25T01:00:33.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "Watchlist.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Models\\Watchlist.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Models\\Watchlist.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Models\\Watchlist.cs",
+              "RelativeToolTip": "Moviesplatform\\Models\\Watchlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T16:50:53.648Z",
+              "WhenOpened": "2025-04-25T00:10:18.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Moviesplatform\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Moviesplatform\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T17:13:29.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Moviesplatform\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T17:23:09.113Z",
+              "WhenOpened": "2025-04-07T14:53:39.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
+              "Title": "MoviesplatformDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
+              "ViewState": "AgIAAA0AAADA//////8hwDEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:57:31.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Moviesplatform\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Moviesplatform\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwE0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-04T09:37:45.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAACIAAABA//////8rwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T09:41:16.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MoviesplatformUser.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
-              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
-              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
+              "DocumentIndex": 29,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:08:55.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "Moviesplatform\\Views\\User\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "Moviesplatform\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T17:23:31.991Z",
+              "WhenOpened": "2025-04-24T23:08:12.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAB4AAAAAtDIzMzMKwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T23:49:36.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Moviesplatform\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Moviesplatform\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-01T14:39:16.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv6sAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T17:53:35.547Z",
+              "WhenOpened": "2025-04-10T16:50:53.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Moviesplatform\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Moviesplatform\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAwAAADAZWZmZmYkwDMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-07T14:59:00.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 32,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -299,11 +630,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABwAAAAAcJmZmZnZv0kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T09:41:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:08:11.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MoviesplatformUser.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:08:55.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T22:38:56.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T22:38:29.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T22:38:27.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T22:38:23.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Moviesplatform",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Moviesplatform.csproj",
+              "RelativeDocumentMoniker": "Moviesplatform\\Moviesplatform.csproj",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Moviesplatform.csproj",
+              "RelativeToolTip": "Moviesplatform\\Moviesplatform.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T17:16:17.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Moviesplatform\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:13:49.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Moviesplatform\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Moviesplatform\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:13:29.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Moviesplatform\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Moviesplatform\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwAAADAZWZmZmYkwDMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-07T14:59:00.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Moviesplatform\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Models\\Category.cs",
               "RelativeToolTip": "Moviesplatform\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -311,102 +781,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 43,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Moviesplatform\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Moviesplatform\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T23:48:29.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T23:48:29.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Moviesplatform\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T14:53:39.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MoviesplatformDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
-              "RelativeDocumentMoniker": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
-              "RelativeToolTip": "Moviesplatform\\Areas\\Identity\\Data\\MoviesplatformDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T09:57:31.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\appsettings.json",
-              "RelativeDocumentMoniker": "Moviesplatform\\appsettings.json",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\appsettings.json",
-              "RelativeToolTip": "Moviesplatform\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-04T09:58:19.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 44,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Moviesplatform\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Moviesplatform\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T20:56:37.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T20:56:37.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 46,
               "Title": "20250404101502_Initialmigration.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Migrations\\20250404101502_Initialmigration.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250404101502_Initialmigration.cs",
               "RelativeDocumentMoniker": "Moviesplatform\\Migrations\\20250404101502_Initialmigration.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Migrations\\20250404101502_Initialmigration.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Migrations\\20250404101502_Initialmigration.cs",
               "RelativeToolTip": "Moviesplatform\\Migrations\\20250404101502_Initialmigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T10:15:03.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Film.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Models\\Film.cs",
-              "RelativeDocumentMoniker": "Moviesplatform\\Models\\Film.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Models\\Film.cs",
-              "RelativeToolTip": "Moviesplatform\\Models\\Film.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T10:06:23.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Moviesplatform\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Moviesplatform\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-04-01T14:39:16.862Z"
             }
           ]
         }

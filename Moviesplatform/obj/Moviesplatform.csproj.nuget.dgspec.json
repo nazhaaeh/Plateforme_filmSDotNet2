@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj": {}
+    "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Moviesplatform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj": {
+    "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Moviesplatform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Moviesplatform.csproj",
         "projectName": "Moviesplatform",
-        "projectPath": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\Moviesplatform.csproj",
+        "projectPath": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\Moviesplatform.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\source\\repos\\Moviesplatform\\Moviesplatform\\obj\\",
+        "outputPath": "C:\\Users\\dell\\OneDrive\\Bureau\\DotnetFilms\\Plateforme_filmSDotNet2\\Moviesplatform\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,6 +59,10 @@
               "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.20, )"
             },

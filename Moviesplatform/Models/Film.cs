@@ -1,4 +1,6 @@
-﻿namespace Plateforme_Filmes.Models
+﻿using Moviesplatform.Models;
+
+namespace Plateforme_Filmes.Models
 {
     public class Film
     {
@@ -9,5 +11,6 @@
 
         public int CategoryId { get; set; } 
         public Category Category { get; set; }
+
     }
 }
