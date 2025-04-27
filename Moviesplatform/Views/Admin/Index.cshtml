@@ -1,8 +1,37 @@
 ﻿@{
-    
-Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
-}@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
     ViewData["Title"] = "Admin Page";
 }
-<h2>Bienvenue Admin</h2>
-<p>Ceci est la page d’administration.</p>
+
+<h2 class="page-title">Bienvenue Admin 👑</h2>
+
+<div class="admin-welcome">
+    <p>Ceci est la page d’administration.</p>
+</div>
+
+<style>
+
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f9f9f9;
+        margin: 20px;
+    }
+
+    .page-title {
+        color: darkred;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .admin-welcome {
+        text-align: center;
+        font-size: 1.2em;
+        color: #333;
+        background-color: white;
+        padding: 20px;
+        margin: 0 auto;
+        width: 60%;
+        box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+        border-radius: 10px;
+    }
+</style>

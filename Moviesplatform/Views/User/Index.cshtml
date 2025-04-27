@@ -1,7 +1,38 @@
 ﻿@{
     Layout = "~/Views/Shared/_LayoutUser.cshtml";
-}@{
+}
+@{
     ViewData["Title"] = "User Page";
 }
-<h2>Bienvenue User</h2>
-<p>Ceci est la page utilisateur.</p>
+<h2 class="welcome-title">Bienvenue User</h2>
+<p class="user-description">Ceci est la page utilisateur.</p>
+
+<style>
+    /* Style pour le titre de bienvenue */
+    .welcome-title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 20px;
+        color: #343a40;
+        text-align: center;
+    }
+
+    /* Style pour la description utilisateur */
+    .user-description {
+        font-size: 1.2rem;
+        color: #6c757d;
+        text-align: center;
+        margin-bottom: 30px;
+        padding: 10px;
+        background-color: #f8f9fa;
+        border-radius: 8px;
+    }
+
+    /* Style de la page en général */
+
+
+    /* Ajout d'un peu de padding autour du contenu */
+    main.container {
+        padding: 30px;
+    }
+</style>
